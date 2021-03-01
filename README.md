@@ -1,2 +1,2 @@
 # MazeGenerator
-Demonstrates various maze generation algorithms, visually
+Visually demonstrates various maze generation algorithms
